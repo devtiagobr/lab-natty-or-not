@@ -1,51 +1,40 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA & Criatividade: Quando a Máquina Vira Artista 😉
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é um **e-book de 5 páginas** que explora como as **IAs generativas estão transformando a arte e a criatividade humana**.  
+O e-book combina **texto e imagens criadas por IA** para mostrar como humanos e algoritmos podem colaborar, expandindo o conceito de criação artística na era digital.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT** — para roteirização e refinamento do texto.  
+- **Ideogram.ai** — para criação das imagens artísticas do e-book.  
+- **Canva** — para montagem, diagramação e exportação do e-book.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+### Roteiro e Texto
+Usei o ChatGPT para transformar ideias sobre **arte e IA** em um texto fluido, dividido em 5 páginas temáticas:  
+- Capa  
+- Nascimento da arte IA  
+- Colaboração humano + IA  
+- Futuro da inspiração  
+- Conclusão  
+
+### Imagens
+Cada página recebeu uma ilustração gerada no **Ideogram.ai** com prompts específicos, mantendo **estilo 3D futurista**, paleta **azul e violeta** e luz suave, coerente com a capa.
+
+### Montagem
+No **Canva**, organizei cada página com **imagem + texto**, apliquei fontes modernas e harmonizei cores e layout.  
+Por fim, exportei o e-book em PDF, pronto para compartilhamento ou publicação no GitHub.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta:  
+- **Capa profissional** combinando tecnologia e arte.  
+- **4 páginas internas** com texto reflexivo e imagens surreais geradas por IA.  
+- **Coerência visual e narrativa**, facilitando a leitura e transmitindo a ideia de colaboração entre humano e IA.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 📎 Link para o e-book
+[Adicione aqui seu link PDF ou vídeo]
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar este e-book foi um exercício de **equilíbrio entre criatividade humana e capacidade da IA**.  
+Foi desafiador manter uma estética uniforme e texto envolvente ao mesmo tempo, mas a experiência mostrou como as **IAs podem ser parceiras poderosas na criação artística**, sem substituir o toque humano.
