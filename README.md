@@ -42,7 +42,7 @@ O e-book apresenta:
 
 ## 📎 Link para o e-book
 
-https://github.com/devtiagobr/lab-natty-or-not/raw/main/pasta/IA-&-Criatividade-Quando-a-Máquina-Vira-Artista.pdf
+https://github.com/devtiagobr/lab-natty-or-not/blob/main/IA%20%26%20Criatividade%20-%20Quando%20a%20M%C3%A1quina%20Vira%20Artista.pdf
 
 ## 💭 Reflexão
 
